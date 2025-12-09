@@ -1,5 +1,6 @@
-# AzureFileSyncAndDashboard(Showcase)
+# AzureFileSyncAndDashboard
 
+Showcase!
 Small File Sync for azure file share in storage account and dashboard for that aswell
 This was my school work and kinda interesting setup
 You need AzCopy for this
