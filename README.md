@@ -35,3 +35,4 @@ File share name
 Access key which can be found by going to security and networking and then access key.
 Then you can either use it localy or upload it to VM.
 
+Also there is atleast not yet no real frontend in dashboard just generic html stuff(was not priority at all)
