@@ -29,6 +29,7 @@ How to make it into autmatic syncronization
 (NOTE! its not free to use, microsoft azure is kinda expensive)
 
 For dashboard you can use the dashboard script BUT you need
+Python and flask
 File share name
 Access key which can be found by going to security and networking and then access key.
 Then you can either use it localy or upload it to VM.
