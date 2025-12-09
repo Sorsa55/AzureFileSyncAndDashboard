@@ -4,8 +4,8 @@ import os
 
 app = Flask(__name__)
 
-conn_str="ACCESS_KEY"
-share_name="FILESHARE_NAME" #You should put these in .env
+conn_str="YOUR_ACCESS_KEY"#Put in .env
+share_name="YOUR_FILESHARE_NAME" #You should put these in .env
 
 @app.route("/")
 def index():
